@@ -4,56 +4,56 @@
 This is a list with all the pans that Linda Enders has including pictures.
 
 - Angel
-  - ![cake pan](imgs/angel.jpg)
+  - !(imgs/angel.jpg)
 - Bell
-  - !(imgs/Bell.jpg "Bell Cake Pans")
+  - !(imgs/Bell.jpg)
 - Goofy
-  - (imgs/goofy.jpg "Disney's Goofy")
+  - !(imgs/goofy.jpg)
 - Fish
-  - (imgs/fish.jpg "Fish Cake Pan")
+  - !(imgs/fish.jpg)
 - Small Butterfly
-  - (imgs/smallbutterfly.jpg "Small Butterfly")
+  - !(imgs/smallbutterfly.jpg)
 - Steam Train
-  - (imgs/steamtrain.jpg "Steam Train")
+  - !(imgs/steamtrain.jpg)
 - Model T Ford
-  - (imgs/oldcar.jpg "Old Car")
+  - !(imgs/oldcar.jpg)
 - Donald Duck
-  - (imgs/donaldduck.jpg "Disney's Donald Duck")
+  - !(imgs/donaldduck.jpg)
 - Heart Tiers
-  - (imgs/hearts.jpg "Three Heart Pans")
+  - !(imgs/hearts.jpg)
 - Scaloped Heart
-  - (imgs/sheart.jpg "Scaloped Heart")
+  - !(imgs/sheart.jpg)
 - Shallow Heart
-  - (imgs/shallowheart.jpg "shallow heart")
+  - !(imgs/shallowheart.jpg)
 - Small Heart
-  - (imgs/smallheart.jpg "Small Heart")
+  - !(imgs/smallheart.jpg)
 - Half Spheres
-  - (imgs/halfsphere.jpg "Half Sphere")
+  - !(imgs/halfsphere.jpg)
 - Half Eggs
-  - (imgs/halfegg.jpg "Half Egg")
+  - !(imgs/halfegg.jpg)
 - Round Tiers
-  - (imgs/roundtier.jpg "Round Tiers")
+  - !(imgs/roundtier.jpg)
 - Care Bear
-  - (imgs/carebear.jpg "Care Bear")
+  - !(imgs/carebear.jpg)
 - Potted Flowers
-  - (imgs/pottedflowers.jpg "Potted Flowers")
+  - !(imgs/pottedflowers.jpg)
 - Rocking Horse
-  - (imgs/rockinghorse.jpg "Rocking Horse")
+  - !(imgs/rockinghorse.jpg)
 - House
-  - (imgs/house.jpg "House")
+  - !(imgs/house.jpg)
 - Star
-  - (imgs/star.jpg "Star")
+  - !(imgs/star.jpg)
 - Guitar
-  - (imgs/guitar.jpg "Guitar")
+  - !(imgs/guitar.jpg)
 - Xmas Tree
-  - (imgs/xmastree.jpg "X-Mass Tree")
+  - !(imgs/xmastree.jpg)
 - Space Ship
-  - (imgs/spaceship.jpg "Space Ship")
+  - !(imgs/spaceship.jpg)
 - 3D Lamb
-  - (imgs/3dlamb.jpg "3-D Lamb")
+  - !(imgs/3dlamb.jpg)
 - 3D Rabbit
-  - (imgs/3drabbit.jpg "3-D Rabbit")
+  - !(imgs/3drabbit.jpg)
 - Open Book
-  - (imgs/openbook.jpg "Open Book")
+  - !(imgs/openbook.jpg)
 - Horse Shoe
-  - (imgs/horseshoe.jpg "Horse Shoe")
+  - !(imgs/horseshoe.jpg)
