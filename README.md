@@ -4,7 +4,7 @@
 This is a list with all the pans that Linda Enders has including pictures.
 
 - Angel
-  - !(imgs/angel.jpg)
+  - ![Cake Pan](imgs/angel.jpg)
 - Bell
   - !(imgs/Bell.jpg)
 - Goofy
