@@ -4,7 +4,7 @@
 This is a list with all the pans that Linda Enders has including pictures.
 
 - Angel
-  - https://github.com/denders428/CakePans/blob/main/imgs/angel.jpg
+  - ![cake pan](imgs/angel.jpg)
 - Bell
   - !(imgs/Bell.jpg "Bell Cake Pans")
 - Goofy
