@@ -6,54 +6,54 @@ This is a list with all the pans that Linda Enders has including pictures.
 - Angel
   - ![Cake Pan](imgs/angel.jpg)
 - Bell
-  - !(imgs/Bell.jpg)
+  - ![Cake Pan](imgs/Bell.jpg)
 - Goofy
-  - !(imgs/goofy.jpg)
+  - ![Cake Pan](imgs/goofy.jpg)
 - Fish
-  - !(imgs/fish.jpg)
+  - ![Cake Pan](imgs/fish.jpg)
 - Small Butterfly
-  - !(imgs/smallbutterfly.jpg)
+  - ![Cake Pan](imgs/smallbutterfly.jpg)
 - Steam Train
-  - !(imgs/steamtrain.jpg)
+  - ![Cake Pan](imgs/steamtrain.jpg)
 - Model T Ford
-  - !(imgs/oldcar.jpg)
+  - ![Cake Pan](imgs/oldcar.jpg)
 - Donald Duck
-  - !(imgs/donaldduck.jpg)
+  - ![Cake Pan](imgs/donaldduck.jpg)
 - Heart Tiers
-  - !(imgs/hearts.jpg)
+  - ![Cake Pan](imgs/hearts.jpg)
 - Scaloped Heart
-  - !(imgs/sheart.jpg)
+  - ![Cake Pan](imgs/sheart.jpg)
 - Shallow Heart
-  - !(imgs/shallowheart.jpg)
+  - ![Cake Pan](imgs/shallowheart.jpg)
 - Small Heart
-  - !(imgs/smallheart.jpg)
+  - ![Cake Pan](imgs/smallheart.jpg)
 - Half Spheres
-  - !(imgs/halfsphere.jpg)
+  - ![Cake Pan](imgs/halfsphere.jpg)
 - Half Eggs
-  - !(imgs/halfegg.jpg)
+  - ![Cake Pan](imgs/halfegg.jpg)
 - Round Tiers
-  - !(imgs/roundtier.jpg)
+  - ![Cake Pan](imgs/roundtier.jpg)
 - Care Bear
-  - !(imgs/carebear.jpg)
+  - ![Cake Pan](imgs/carebear.jpg)
 - Potted Flowers
-  - !(imgs/pottedflowers.jpg)
+  - ![Cake Pan](imgs/pottedflowers.jpg)
 - Rocking Horse
-  - !(imgs/rockinghorse.jpg)
+  - ![Cake Pan](imgs/rockinghorse.jpg)
 - House
-  - !(imgs/house.jpg)
+  - ![Cake Pan](imgs/house.jpg)
 - Star
-  - !(imgs/star.jpg)
+  - ![Cake Pan](imgs/star.jpg)
 - Guitar
-  - !(imgs/guitar.jpg)
+  - ![Cake Pan](imgs/guitar.jpg)
 - Xmas Tree
-  - !(imgs/xmastree.jpg)
+  - ![Cake Pan](imgs/xmastree.jpg)
 - Space Ship
-  - !(imgs/spaceship.jpg)
+  - ![Cake Pan](imgs/spaceship.jpg)
 - 3D Lamb
-  - !(imgs/3dlamb.jpg)
+  - ![Cake Pan](imgs/3dlamb.jpg)
 - 3D Rabbit
-  - !(imgs/3drabbit.jpg)
+  - ![Cake Pan](imgs/3drabbit.jpg)
 - Open Book
-  - !(imgs/openbook.jpg)
+  - ![Cake Pan](imgs/openbook.jpg)
 - Horse Shoe
-  - !(imgs/horseshoe.jpg)
+  - ![Cake Pan](imgs/horseshoe.jpg)
