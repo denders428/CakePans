@@ -3,15 +3,15 @@
 
 This is a list with all the pans that Linda Enders has including pictures.
 
-- Angel 
+- Angel
   - (imgs/angel.jpg "Angel Cake Pan")
 - Bell
   - (imgs/Bell.jpg "Bell Cake Pans")
 - Goofy
-  - (imgs/goofy.jpg "Disney's Goofy") 
+  - (imgs/goofy.jpg "Disney's Goofy")
 - Fish
   - (imgs/fish.jpg "Fish Cake Pan")
-- Small Butterfly 
+- Small Butterfly
   - (imgs/smallbutterfly.jpg "Small Butterfly")
 - Steam Train
   - (imgs/steamtrain.jpg "Steam Train")
@@ -31,7 +31,7 @@ This is a list with all the pans that Linda Enders has including pictures.
   - (imgs/halfsphere.jpg "Half Sphere")
 - Half Eggs
   - (imgs/halfegg.jpg "Half Egg")
-- Round Tiers 
+- Round Tiers
   - (imgs/roundtier.jpg "Round Tiers")
 - Care Bear
   - (imgs/carebear.jpg "Care Bear")
